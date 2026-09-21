@@ -88,7 +88,7 @@ Pra mim, tecnologia sempre foi sobre resolver problemas reais. Gosto de entender
 | **Improve Wealth** | Plataforma de gestão patrimonial integrada às APIs reais do BTG Pactual via OAuth 2.0, com ETL de 7 classes de ativos e trilha de auditoria financeira | React · Node.js · TypeScript · PostgreSQL |
 | **SweatTrack** | Plataforma de monitoramento esportivo com laudos fisiológicos gerados por IA (Google Gemini), em parceria com o Centro Universitário São Camilo | React · Node.js · MySQL · Gemini API |
 | **Sistema de Agendamento** | Plataforma completa de agendamento para barbearia com confirmações automáticas por e-mail, JWT e controle de acesso por perfis | React · Node.js · Express · PostgreSQL |
-| **Churn Analytics** | Análise de cancelamento de clientes com dashboards que identificaram caminho para redução de churn de 56% para 18% | Python · Pandas · Matplotlib · Scikit-learn |
+| **Churn Analytics** | Análise de cancelamento com dashboards que identificaram caminho para redução de churn de 56% para 18% | Python · Pandas · Matplotlib · Scikit-learn |
 
 </div>
 
@@ -98,28 +98,17 @@ Pra mim, tecnologia sempre foi sobre resolver problemas reais. Gosto de entender
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalesxvt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=1A47A0&icon_color=1A47A0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesxvt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A47A0"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=thalesxvt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=1A47A0&icon_color=1A47A0"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thalesxvt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A47A0"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thalesxvt&theme=tokyonight&hide_border=true&background=0D1117&ring=1A47A0&fire=1A47A0&currStreakLabel=1A47A0"/>
+<img src="https://streak-stats.demolab.com?user=thalesxvt&theme=tokyonight&hide_border=true&background=0D1117&ring=1A47A0&fire=1A47A0&currStreakLabel=1A47A0"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thalesxvt&bg_color=0D1117&color=1A47A0&line=1A47A0&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thalesxvt&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true"/>
-
-</div>
 
 ---
 
