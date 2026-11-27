@@ -1,135 +1,111 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A47A0&height=120&section=header"/>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · thalesxvt</sub></p>
+<h1>Thales Xavier</h1>
+<h2>Full-stack developer · Tech Consultant at Mauá Júnior</h2>
+<p>Computer Science student at Instituto Mauá de Tecnologia (IMT). I like taking a real business problem and turning it into a working system, from the database to the deploy.</p>
+<p><strong>● Building systems for real clients at Mauá Júnior</strong></p>
 
-# Thales Xavier von Tein
-
-<a href="https://www.linkedin.com/in/thales-xavier">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/thalesxvt">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:thalesxvt5@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1A47A0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Technology+Consultant+%40+Mau%C3%A1+J%C3%BAnior;Resolvo+problemas+reais+com+tecnologia.)](https://git.io/typing-svg)
-
+<p><a href="https://linkedin.com/in/thales-xavier">LinkedIn</a> · <a href="https://github.com/thalesxvt">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/200075888?u=bb66d1b8fa0a450c379218b89a0889a5cf2db1fd&amp;v=4" width="180" alt="Thales Xavier GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-## Sobre mim
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Full-stack developer · React · TypeScript · Node.js · PostgreSQL</p></td>
+<td width="33%" valign="top"><h3>Real-world proof</h3><p>3 client systems at Mauá Júnior · integrations with BTG Pactual API and Omie ERP</p></td>
+<td width="33%" valign="top"><h3>Now learning</h3><p>ServiceNow · Flutter · NoSQL &amp; Big Data</p></td>
+</tr>
+</table>
 
-Sou estudante de Ciência da Computação no Instituto Mauá de Tecnologia e atuo como **Consultor de Tecnologia na Mauá Júnior**, onde desenvolvo sistemas completos para clientes reais, do levantamento de requisitos até o deploy em produção.
+<p><sub>São Paulo, SP · open to internships and good conversations about technology.</sub></p>
 
-Pra mim, tecnologia sempre foi sobre resolver problemas reais. Gosto de entender o problema antes de partir pro código, e de entregar algo que o cliente realmente usa.
+<h2>Proof at a glance</h2>
 
-- 🎓 4º semestre de Ciência da Computação — **Instituto Mauá de Tecnologia**
-- 💼 Consultor de Tecnologia — **Mauá Júnior**
-- 📍 São Paulo, SP
-- 🌐 Inglês avançado
-- 🔍 Buscando estágio em desenvolvimento de software
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Featured projects</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Client systems</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Enterprise API integrations</sub></td>
+<td width="25%" align="center"><strong>4th</strong><br /><sub>Semester of CS</sub></td>
+</tr>
+</table>
 
----
-
-## Stack
-
-<div align="center">
-
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### Segurança
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-
-#### DevOps & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-
-#### Dados & IA
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
-
----
-
-## Projetos
-
-<div align="center">
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **BIPEX — Avenida Tintas** | Sistema de conferência de estoque para 5 filiais integrado ao ERP Omie em tempo real, com RBAC por filial e relatórios automáticos em PDF | React · Node.js · PostgreSQL · Omie API |
-| **Improve Wealth** | Plataforma de gestão patrimonial integrada às APIs reais do BTG Pactual via OAuth 2.0, com ETL de 7 classes de ativos e trilha de auditoria financeira | React · Node.js · TypeScript · PostgreSQL |
-| **SweatTrack** | Plataforma de monitoramento esportivo com laudos fisiológicos gerados por IA (Google Gemini), em parceria com o Centro Universitário São Camilo | React · Node.js · MySQL · Gemini API |
-| **Sistema de Agendamento** | Plataforma completa de agendamento para barbearia com confirmações automáticas por e-mail, JWT e controle de acesso por perfis | React · Node.js · Express · PostgreSQL |
-| **Churn Analytics** | Análise de cancelamento com dashboards que identificaram caminho para redução de churn de 56% para 18% | Python · Pandas · Matplotlib · Scikit-learn |
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=thalesxvt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=1A47A0&icon_color=1A47A0"/>
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thalesxvt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A47A0"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=thalesxvt&theme=tokyonight&hide_border=true&background=0D1117&ring=1A47A0&fire=1A47A0&currStreakLabel=1A47A0"/>
-
-</div>
-
-
----
-
-## Snake
-
-<div align="center">
-
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thalesxvt/thalesxvt/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thalesxvt/thalesxvt/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/thalesxvt/thalesxvt/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=thalesxvt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200075888%3Fu%3Dbb66d1b8fa0a450c379218b89a0889a5cf2db1fd%26v%3D4&v=recruiter-stats-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=thalesxvt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200075888%3Fu%3Dbb66d1b8fa0a450c379218b89a0889a5cf2db1fd%26v%3D4&v=recruiter-stats-2&mode=dark" width="100%" alt="Thales Xavier GitHub proof metrics" />
 </picture>
+</p>
 
-</div>
+<h2>Selected work</h2>
 
----
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<h3>💼 Improve Wealth · Mauá Júnior</h3>
+<p>Internal wealth management system for an investment advisory firm: consolidated client portfolios, monthly reports, advisor dashboard and a generator that builds the client's financial planning deck in <strong>PowerPoint and PDF</strong> automatically.</p>
+<p>I built the <strong>initial MVP</strong> and the <strong>BTG Pactual API integration</strong> (OAuth2, token cache, investment positions). Role-based access with audit log, and a dual-mode backend (PostgreSQL or demo data).</p>
+<p><sub>React · TypeScript · Node.js · Express · TypeORM · PostgreSQL · 🔒 private repository</sub></p>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/thalesxvt/Porquinho">🐷 Porquinho</a></h3>
+<p>Personal finance PWA I use every day: dashboard, payables and receivables with installments, sub-accounts, investments and reports.</p>
+<p>AES-256-GCM field encryption, JWT, bcrypt and rate limiting. Monorepo with shared types and Vitest.</p>
+<p><sub>React 19 · TypeScript · Node.js · Prisma · PostgreSQL · Docker</sub></p>
+<p><a href="https://porquinho-z3p4.vercel.app">See it live →</a> · <a href="https://github.com/thalesxvt/Porquinho">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>🎨 Avenida Tintas</h3><p>Barcode stock-check system for a paint store, integrated with the <strong>Omie ERP</strong> across branches. Compares expected × scanned items and flags shortages and errors.</p><p><sub>React · Express · Prisma · PostgreSQL · Mauá Júnior · 🔒 private</sub></p></td>
+<td width="33%" valign="top"><h3>🏗️ SKJ Engenharia</h3><p>Company website with a construction budget simulator based on the official <strong>SindusCon-SP CUB</strong>, updated monthly by <strong>GitHub Actions</strong>, with PDF export. Top contributor.</p><p><sub>JavaScript · Node.js · GitHub Actions · Mauá Júnior · 🔒 private</sub></p></td>
+<td width="33%" valign="top"><h3>🚌 DashMOB</h3><p>Operations dashboard for the urban mobility department of São Caetano do Sul: mileage, scheduled × completed trips, passengers and incidents. In progress.</p><p><sub>Python · FastAPI · MongoDB · Flutter · IMT Integrated Project</sub></p></td>
+</tr>
+</table>
 
-*"Resolvo problemas reais com tecnologia, do requisito ao deploy."*
+<h2>Technical toolkit</h2>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A47A0&height=80&section=footer"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,nodejs,express,prisma,postgres,mongodb,python,fastapi,flutter,dart,java,docker,githubactions,vercel&perline=9" alt="Thales Xavier technology stack" />
+</p>
 
-</div>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>71% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>14% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>9% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=thalesxvt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200075888%3Fu%3Dbb66d1b8fa0a450c379218b89a0889a5cf2db1fd%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=thalesxvt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200075888%3Fu%3Dbb66d1b8fa0a450c379218b89a0889a5cf2db1fd%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Thales Xavier contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to internships, real problems and teams that ship useful software.</p></td>
+<td width="38%" valign="middle" align="center"><a href="https://linkedin.com/in/thales-xavier">LinkedIn</a> · <a href="https://github.com/thalesxvt">GitHub</a></td>
+</tr>
+</table>
